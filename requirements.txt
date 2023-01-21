@@ -5,4 +5,5 @@ gunicorn==20.1.0
 importlib-metadata==5.2.0
 requests==2.25.1
 pathlib
+PIL
 streamlit==1.16.0
